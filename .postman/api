@@ -1,0 +1,15 @@
+id = a4d6ad83-7b15-4ae7-af70-40ac7eb47b73
+
+[relations]
+
+[relations.collections]
+rootDirectory = postman/collections
+files[] = {"path":"invalid_coll.json","metaData":{}}
+files[] = {"id":"869033-6193ab05-e499-4a33-887d-e8d8112196ac","path":"Shopigram 2.json","metaData":{}}
+
+[relations.collections.metaData]
+
+[relations.apiDefinition]
+rootDirectory = postman/schemas
+
+[relations.apiDefinition.metaData]

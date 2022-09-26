@@ -1,0 +1,32 @@
+{
+	"info": {
+		"_postman_id": "6193ab05-e499-4a33-887d-e8d8112196ac",
+		"name": "Shopigram 2",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_uid": "869033-6193ab05-e499-4a33-887d-e8d8112196ac"
+	},
+	"item": [
+		{
+			"name": "FB Webhook",
+			"id": "3ef1cfcd-8b03-4556-aec7-e315272bf520",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{url}}/facebook/webworks",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"facebook",
+						"webworks"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
