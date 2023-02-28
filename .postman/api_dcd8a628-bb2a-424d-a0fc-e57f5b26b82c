@@ -9,6 +9,7 @@ id = dcd8a628-bb2a-424d-a0fc-e57f5b26b82c
 
 [config.relations.collections]
 rootDirectory = postman/collections
+files[] = {"id":"5000135-8263bfa8-dff7-420c-a121-68858f6e46be","path":"New Collection.json","metaData":{}}
 
 [config.relations.collections.metaData]
 
